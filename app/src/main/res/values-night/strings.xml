@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btNext">Proximo</string>
+    <string name="btnTakePicture">Capturar Imagem</string>
+    <string name="testCameraPhoto">Imagem da Camera</string>
+    <string name="btLoadMap">Carregar no mapa</string>
+    <string name="tvCoordinates">Latitude/Longitude-Altitude</string>
+    <string name="mvDescription">Load information of coordinates</string>
+    <string name="tvSensorText">sensor</string>
+</resources>

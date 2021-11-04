@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NACIII v2</string>
+    <string name="btNext">Proximo</string>
+    <string name="btnTakePicture">Capturar Imagem</string>
+    <string name="testCameraPhoto">Imagem da Camera</string>
+    <string name="btLoadMap">Carregar no mapa</string>
+    <string name="tvCoordinates">Latitude/Longitude-Altitude</string>
+    <string name="mvDescription">Load information of coordinates</string>
+    <string name="map_key">sua chave do google maps aqui</string>
+    <string name="tvSensorText">sensor</string>
+</resources>
